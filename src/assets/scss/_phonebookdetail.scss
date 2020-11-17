@@ -1,0 +1,17 @@
+.tbody{
+  background-color: #e76f51;
+  width: 100%;
+  cursor: pointer;
+  
+  .tr_style{
+    background-color: #e65e3d;
+    padding: .5em;
+    width: 100%;
+    
+    &:hover{
+      color: white;
+      background-color: #f88e73;
+    }
+  }
+  
+}

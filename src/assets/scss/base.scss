@@ -1,0 +1,23 @@
+@import './home';
+@import './phonebookform';
+@import './navbar';
+@import './phonebookdetail';
+
+html body{
+  background-color: #f4a261;
+  color: white;
+
+ .tbody{
+   margin-bottom: 1em;
+  td{
+    width: 100%;
+  }
+ }
+ #form_btn_cancel{
+  position: absolute;
+  right: 3em;
+  top: 40.4em;
+  background-color: #2a9d8f;
+}
+}
+

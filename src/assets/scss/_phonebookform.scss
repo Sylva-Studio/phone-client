@@ -1,0 +1,17 @@
+#form{
+  width: 80%;
+  margin: 2em auto;
+  background-color: #e76f51;
+  padding: .5em;
+
+  #form_btn{
+    background-color: #f4a261;
+    border: .1em solid #ff9741;
+
+    &:hover, :active{
+      background-color: #e9c46a;
+      
+    }
+    
+  }
+}
